@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+qr_dine.db
+qr_dine.db-wal
+qr_dine.db-shm
+assets/uploads/
+.streamlit/secrets.toml
+.DS_Store

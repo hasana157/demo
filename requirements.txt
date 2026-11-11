@@ -1,0 +1,5 @@
+streamlit>=1.40
+qrcode>=7.4
+Pillow>=10.1
+pandas
+tzdata
